@@ -1,0 +1,132 @@
+body{
+  background-color:#def4f0;
+  margin:0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+    font-size: 2em;
+}
+h1{
+  margin-top: 0;
+  font-size: 4rem;
+  margin:50px auto 0 auto;
+  font-family:  'Sacramento', sans-serif;
+  color:#66BFBF;
+  line-height: 2;
+}
+#about{
+  color:#66BFBF;
+}
+h2{
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  color:#11999E;
+}
+.pro{
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+/**************************************************************************/
+.nav-container{
+  background-color: #4cd3c2;
+  height:70px;
+  width: 100%;
+  position: fixed;
+
+}
+.nav-link-container{
+  position:relative;
+  margin-right: 10px;
+}
+.nav-link{
+  text-decoration: none;
+  display: inline-block;
+  margin-right:10px;
+  border-radius: 12px;
+  border-color: white;
+  color:white;
+  height: 20px;
+
+}
+
+/**************************************************************************/
+p{
+  line-height: 2;
+}
+.top-container{
+  background-color:#def4f0;
+  margin-bottom: 50px;
+  padding-top: 100px;
+}
+.intro{
+  width:40%;
+  margin:0 auto 0 auto;
+}
+.top-cloud{
+ position:relative;
+ margin-left:600px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.skill-row{
+  width:50%;
+  margin:0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+.pro-pic{
+  width:10%;
+}
+.skills-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+    border-radius: 50%;
+}
+.footer-link{
+  color:#11999E;
+  text-decoration: none;
+
+}
+
+hr{
+  width:4%;
+  border: dotted red 12px;
+  border-bottom: none;
+  margin: 10px auto;
+}
+
+.middle-container{
+margin-bottom: 50px;
+}
+
+/****************************************************************************/
+.btn{
+  height:20px;
+  background-color: #4cd3c2;
+  text-decoration: none;
+  padding:20px;
+  font-family: sans-serif;
+  border-radius:12px;
+  color:white;
+
+}
+.btn:hover{
+  background-color: black;
+}
+
+.contact-info{
+  margin:10px auto;
+  width:50%;
+}
+.bottom-container{
+  font-family: 'Bentham', serif;
+  font-weight: normal;
+  background-color: #4cd3c2;
+}
+.website:hover{
+  text-decoration: underline;
+}
